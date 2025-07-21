@@ -50,7 +50,7 @@ It uses **Java Swing & AWT** for the frontend UI and **JDBC** for database conne
 ### Steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/airline-management-system.git
+   git clone https://github.com/Shivani-Gudala/Airlines_Management_System.git
    cd airline-management-system
 2.Open the project in NetBeans IDE.
 
